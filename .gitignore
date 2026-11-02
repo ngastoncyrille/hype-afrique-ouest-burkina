@@ -1,0 +1,5 @@
+*.exe
+results*/
+*obs.txt
+state_save*
+*.zip
